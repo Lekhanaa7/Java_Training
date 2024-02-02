@@ -31,8 +31,7 @@ public class sorting {
 		{ 
 			sorting ob = new sorting(); 
 			int arr[] = { 64, 25, 12, 22, 11 }; 
-
-		
+			
 			System.out.println("Sorted array"); 
 			ob.sort(arr);
 		} 
